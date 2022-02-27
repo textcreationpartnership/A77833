@@ -1,0 +1,479 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catechisme of the severall heads of Christian religion, gathered together in question and answer, it being intended onely for private use, but now published for the good and benefit of others, by the importunitie of some friends. By Dorothy Burch, living at Stroud in Kent.</title>
+            <author>Burch, Dorothy.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77833</idno>
+            <idno type="STC">Wing B5612</idno>
+            <idno type="STC">Thomason E1186_12</idno>
+            <idno type="STC">ESTC R204940</idno>
+            <idno type="EEBO-CITATION">99864387</idno>
+            <idno type="PROQUEST">99864387</idno>
+            <idno type="VID">116615</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77833)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116615)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1186[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catechisme of the severall heads of Christian religion, gathered together in question and answer, it being intended onely for private use, but now published for the good and benefit of others, by the importunitie of some friends. By Dorothy Burch, living at Stroud in Kent.</title>
+                  <author>Burch, Dorothy.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Matthew Simmons for John Hancock in Popes-head-Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A B⁴.</note>
+                  <note>Running title reads: A short catechisme of Christian religion.</note>
+                  <note>Annotation on Thomason copy: "may 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116615:1" rendition="simple:additions"/>
+            <p>A CATECHISME of the ſeverall Heads of <hi>Chriſtian Religion,</hi> Gathered together in Queſtion and Anſwer, it be<g ref="char:EOLhyphen"/>ing intended onely for private uſe, but now publiſhed for the good and benefit of others, <hi>by the importunitie of ſome friends.</hi>
+            </p>
+            <p>
+               <hi>By</hi> DOROTHY BURCH, <hi>living at</hi> Stroud <hi>in</hi> Kent.</p>
+            <q>
+               <bibl>
+                  <hi>Rom. 14.13.</hi>
+               </bibl>
+               <p>Let us not therefore judge one another any more: but judge this rather, that no man put a ſtumbling block, or an occaſion to fall in his brothers way.</p>
+            </q>
+            <p>
+               <hi>LONDON;</hi> Printed by <hi>Matthew Simmons</hi> for <hi>John Hancock</hi> in <hi>Popes</hi>-head-Alley. 1646.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:116615:2"/>
+            <pb facs="tcp:116615:2"/>
+            <head>¶ To the Chriſtian Reader.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">C</seg>HRISTIAN FRIEND,</hi> by importunitie of ſome friends, and for the bene<g ref="char:EOLhyphen"/>fit of thy ſelfe, and all thoſe that ſhall be pleaſed to peruſe this ſmall Book, by the way of queſtion and anſwer; I have propounded many very neceſſary queſtions with their anſwers, neceſſary to be knowne and learned of every good Chriſtian. When I firſt collected them together, I had no thought of putting them in print, but by reaſon of the Miniſter of the Pariſh where I live, becauſe my ſelfe and others will not honour him in the way he is in, albeit the way, he ſaid, deſcended from <hi>Rome,</hi> yet he hath ever ſince in publicke and private, laboured to make me and others, odious in
+<pb facs="tcp:116615:3"/>the eyes of the people, albeit formerly I was well accounted of him, yet now he reviles me and others almoſt where ever he comes; my ſelfe heard him ſay, that wee were poore ignorant ſimple people, and as concerning God wee knew nothing, (which thing I de<g ref="char:EOLhyphen"/>ſire God to pardon in him) which much grieved mee to heare, not in reſpect of my ſelfe, for I thinke my ſelfe not worthy to be one of them which he ſo vilifies, which are a knowing people, and precious in the ſight of God. The Lord hath promiſed to teach his people, though not all alike; it came in my minde to ſee what God had taught me; I ſet pen to paper, and asking my ſelfe queſtions, and anſwering of them, which one of neere relation to me, ſeeing them, deſired they might be put in print, which I held not neceſſary, becauſe I feare the weakneſſe of the worke, yet through their perſwaſion I was contented for three cau<g ref="char:EOLhyphen"/>ſes.</p>
+            <p>Firſt, To vindicate the honour of my God, whoſe honour I deſire to ſtand for to the death, which hath promiſed to teach hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:116615:3"/>with the teachings of his own Spirit, and will not let them be ſo ignorant, that they ſhall know nothing of him, <hi>Heb. 8.10. Iſai. 54.13.</hi>
+            </p>
+            <p>The ſecond Reaſon is, that my ſelfe and other Chriſtians may be able in ſome mea<g ref="char:EOLhyphen"/>ſure to anſwer every one which ſhall de<g ref="char:EOLhyphen"/>mand a reaſon of the faith and hope that is in us, <hi>1 Pet. 3.15.</hi>
+            </p>
+            <p>Thirdly and laſtly, that it may doe good to my children, whoſe good I muſt and will deſire as my own: if any gaine any good or profit by it, I deſire God may have all the honour and praiſe thereof, and ſo I reſt</p>
+            <closer>
+               <signed>Thy friend in Chriſt, DOROTHY BURCH.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:116615:4"/>
+            <pb facs="tcp:116615:4"/>
+            <head>A CATECHISME of the ſeverall Heads of <hi>Chriſtian Religion.</hi>
+            </head>
+            <p>Queſtion.</p>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hat is God?</hi>
+            </p>
+            <p>Anſwer.</p>
+            <p>God is a ſpirit that hath his being of himſelfe, without beginning and ending of dayes, <hi>Joh.</hi> 4.24.</p>
+            <p>Q. <hi>What are the workes of God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Creation of the world, and all things therein, and preſerving them by his provi<g ref="char:EOLhyphen"/>dence, <hi>Gen.</hi> 1.21.</p>
+            <p>Q. <hi>How did he create the world, and all things therein?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He ſpake the word, &amp; it was done, <hi>Gen.</hi> 1.3.</p>
+            <p>Q. <hi>In what ſtate did he make man?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He created him in his own image, in righ<g ref="char:EOLhyphen"/>teouſneſſe, and true holineſſe, <hi>Gen.</hi> 1.26.</p>
+            <pb facs="tcp:116615:5"/>
+            <p>Q. <hi>How came they to loſe that glorious eſtate?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the ſubtilty of the Devill, in perſwading the Woman to eat of the forbidden fruit, <hi>Gen.</hi> 3.1, 2. <hi>&amp;</hi> 4.</p>
+            <p>Q. <hi>How did the Devill, or the Devill in the Ser<g ref="char:EOLhyphen"/>pent, deceive our firſt parents?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By telling them they ſhould be as Gods, knowing good and evill; ſo thinking to be as God they loſt all that Image they had of God, <hi>Gen.</hi> 3.5.</p>
+            <p>Q. <hi>What came to them by eating thereof?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Lord ſaid to them, in the day that they ſhould eate thereof they ſhould dye the death, <hi>Gen.</hi> 2.17.</p>
+            <p>Q. <hi>What death was it, the death of the body, or the death of the ſoule, or both?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Of both: and none can eſcape this puniſh<g ref="char:EOLhyphen"/>ment but ſuch as were before elected in Je<g ref="char:EOLhyphen"/>ſus Chriſt, <hi>Epheſ.</hi> 1.4. For whom Chriſt ſuf<g ref="char:EOLhyphen"/>fered, and by death freed them from this death.</p>
+            <p>Q. <hi>What was the reaſon they dyed not?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They dyed in the decree of God, although their death was not then executed.</p>
+            <p>Q. <hi>Did God elect, who ſhould be ſaved before the world was made?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes; he did elect before the world was made who ſhould be ſaved by Chriſt, ſo that they which are not in Chriſt, both theſe
+<pb facs="tcp:116615:5"/>deaths doe lye upon them, <hi>Epheſ.</hi> 1.4.</p>
+            <p>Q. <hi>How can it be ſaid, the ſoule can dye, ſeeing God breathed in them living ſouls, which breath he breathed not into other creatures?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To be abſent from the life which is in Chriſt, is the death of the ſoule, <hi>Joh.</hi> 3.36. <hi>&amp;</hi> 10.10.</p>
+            <p>Q. <hi>What priviledge have they that have their life in Chriſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The greateſt and happieſt priviledge in the world, all other priviledges are but as ſha<g ref="char:EOLhyphen"/>dowes to this great ſubſtance.</p>
+            <p>Q. <hi>In what doth their happineſſe conſiſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Chriſt is to them, wiſdome, righteouſneſſe, ſanctification, and redemption, 1 <hi>Cor.</hi> 1.30.</p>
+            <p>Q. <hi>How is Chriſt ſaid to be all this to his people?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Chriſt came into the world to take all our ſinnes upon him, and to give his graces to us by imputation, <hi>Joh.</hi> 1.16.</p>
+            <p>Q. <hi>What was the cauſe Chriſt hath done this for his people?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It was God the Fathers will to ſend his Sonne into the world, and Chriſt his Sonne was willing to doe the will of his Father, to ſuffer for his people, that they might be ſaved, <hi>Matth.</hi> 26.39.</p>
+            <p>Q. <hi>What did he ſuffer for his people?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The loſſe of the honour which he had of God his Father, and tooke on him our na<g ref="char:EOLhyphen"/>ture,
+<pb facs="tcp:116615:6"/>and our ſinnes, and ſuffered for them, to fulfill the Law in perfect holineſſe, that he might preſent us holy without ſpot, ſo wee are comely with the comelineſſe that he hath put upon us, 2 <hi>Cor.</hi> 5.21. <hi>Epheſ.</hi> 5.26, 27. <hi>Ezek.</hi> 16.14.</p>
+            <p>Q. <hi>Could not God have pardoned the ſinnes of his people, if Chriſt had not come and paid what their ſinnes had deſerved?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> God is a God of juſtice as well as of mer<g ref="char:EOLhyphen"/>cy, and in ſending his Sonne he ſhews him<g ref="char:EOLhyphen"/>ſelfe ſo to be in puniſhing of ſinne, although in his Sonne it ſhews his great mercy in ſend<g ref="char:EOLhyphen"/>ing his Sonne to die for his people.</p>
+            <p>Q. <hi>Was Jeſus Chriſt made man in the fleſh, and God in the Spirit?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No; then he could not have been perfect man, and could have but redeemed mans bo<g ref="char:EOLhyphen"/>dy, and no more; but he was perfect man in ſoule and body, and perfect God alſo; ſo he was of two natures, divine and humane, not mixt together, but joyned together, <hi>Iſai.</hi> 9.9.</p>
+            <p>Q. <hi>Why muſt Chriſt be God and man?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe man had ſinned, and man muſt ſuf<g ref="char:EOLhyphen"/>fer for ſinne; he muſt be God, or elſe his ſuf<g ref="char:EOLhyphen"/>ferings had not been of an infinite value; and alſo to uphold him in his ſuffering, it was of neceſſitie that he ſhould be God.</p>
+            <pb facs="tcp:116615:6"/>
+            <p>Q. <hi>Could the ſuffering of Chriſt which was but ſhort, make up the breach with God, betwixt a holy God and an unholy people?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, ſeeing Chriſt ſuffered, it was more then if all the world had ſuffered for ever, and God was ſatisfied with it, <hi>Iſai.</hi> 53.11.</p>
+            <p>Q. <hi>Is there no other way for people to be ſaved, but by Jeſus Chriſt alone? will not good workes ju<g ref="char:EOLhyphen"/>ſtifie us?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No: neither repentance, nor faith, faſting, nor prayer, all theſe are not of value to ju<g ref="char:EOLhyphen"/>ſtifie us before God, <hi>Rom.</hi> 4.4, 5. <hi>Rom.</hi> 5.8, 9, 10.</p>
+            <p>Q. <hi>Why are they not able?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe our beſt workes are as menſtruous clothes; they are ſo far from juſtifying us, that if we truſt in them, they will condemne us: <hi>Paul</hi> durſt not appeare before God truſt<g ref="char:EOLhyphen"/>ing in his own righteouſneſſe, although he out-ſtript many now alive; for as he ſaith of himſelf concerning the law he was blame<g ref="char:EOLhyphen"/>leſſe, <hi>Phil.</hi> 3.6. <hi>&amp;</hi> 8. <hi>Iſai.</hi> 64.6.</p>
+            <p>Q. <hi>Why doe the people of God doe good workes, ſeeing they juſtifie not?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> We ought to doe good workes for ſeverall Reaſons; as,</p>
+            <p n="1">1. Becauſe it is Gods command that we ſhould walke circumſpectly, <hi>Epheſ.</hi> 5.15. and to be perfect as our heavenly Father is perfect, <hi>Mat.</hi> 5.48.</p>
+            <pb facs="tcp:116615:7"/>
+            <p n="2">2. Good workes are for the glory of God Chriſt ſaith; <hi>Let your light ſo ſhine before men that they may ſee your good workes, and glorifi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> your Father which is in heaven,</hi> Mat. 5.49<g ref="char:punc">▪</g> ſee alſo 2 <hi>Theſ.</hi> 1.11, 12.</p>
+            <p n="3">3. If we ſhould not be holy, it were unſutable to our profeſſion, 1 <hi>Theſ.</hi> 2.12.</p>
+            <p n="4">4. Becauſe they are for the edification, benefit<g ref="char:punc">▪</g> and comfort of others, 1 <hi>Theſ.</hi> 3.8, 9. they cauſe the Lords to be thankfull to God fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us, 2 <hi>Theſ.</hi> 1.3.</p>
+            <p n="5">5. Becauſe they make much for the comfor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Saints, who enjoy a ſweet communi<g ref="char:EOLhyphen"/>on with God in obeying God, <hi>In keeping them there is great reward,</hi> Pſal. 19.11.</p>
+            <p n="6">6. Good workes are a ſecond evidence of our being in Chriſt; God hath choſen you to ſalvation through Sanctification of the Spi<g ref="char:EOLhyphen"/>rit, and beliefe of the truth, 2 <hi>Theſ.</hi> 2.13. <hi>Mat.</hi> 7.21. Yet the Spirit of God is the firſt and chiefeſt evidence to us of our ſalvation; <hi>The Spirit it ſelfe beareth witneſſe with our ſpi<g ref="char:EOLhyphen"/>rit, that we are the children of God,</hi> Rom. 8.16.</p>
+            <p>Q. <hi>What may be ſaid to be good workes?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Theſe workes may be ſaid to be good in themſelves, as prayer, hearing the Word, and all other workes of Religion, and yet not good in the ſight of God; for without faith it is impoſſible to pleaſe God; ſecond<g ref="char:EOLhyphen"/>ly,
+<pb facs="tcp:116615:7"/>the tree muſt be good before the fruit can be good.</p>
+            <p>Q. <hi>Is there no good worke good, but in them that have faith?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No; wee loſt all our goodneſſe in <hi>Adam</hi> when he fell, wee being in his loynes, and could not be reſtored but by the ſecond <hi>A<g ref="char:EOLhyphen"/>dam,</hi> which is Jeſus Chriſt; for what we loſt in <hi>Adam,</hi> is gained againe onely by Jeſus Chriſt, <hi>Rom.</hi> 5.17.</p>
+            <p>Q. <hi>What ſhall they doe which have not faith, ſee<g ref="char:EOLhyphen"/>ing nothing they can doe is pleaſing to God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They may (if God give them power) uſe thoſe meanes which God hath appointed to get faith.</p>
+            <p>Q. <hi>What are the meanes God hath appointed to beget faith?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> There be five wayes or meanes: Firſt, The Word preached; ſecondly, Prayer; thirdly, ſocietie with his people; fourthly, reading his Word; fifthly, meditating how ready God is to ſhew mercy to them that ſeek him in his owne wayes; Conſider how ready Chriſt was to helpe all when he was on the earth, did never ſend any away from him without helpe; Conſider the prodigall, when he returned to his Father how joy<g ref="char:EOLhyphen"/>fully he received him, <hi>Rom.</hi> 10.17. <hi>Mat.</hi> 7.7. <hi>Luk.</hi> 15.19. <hi>&amp;</hi> 20.</p>
+            <pb facs="tcp:116615:8"/>
+            <p>Q. <hi>Is there not abundance of backwardneſſe in our nature, to uſe the meanes to get faith?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, and where there is grace too, witneſſe <hi>Paul,</hi> who ſaid, <hi>when he would doe good, evill was preſent with him;</hi> but there is ſtrength in Chriſt to overcome all lets and hindran<g ref="char:EOLhyphen"/>ces; and let us conſider that dutie which we are backwardeſt to doe is moſt ſpirituall, and we ſtand in the greateſt need of, as pray<g ref="char:EOLhyphen"/>er and meditation, and ſo be incouraged the more in Chriſt to be exerciſed in them, <hi>Rom.</hi> 7.15.</p>
+            <p>Q. <hi>What is ſinne?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A breach of Gods Lawes and Commande<g ref="char:EOLhyphen"/>ments, be it in the leaſt want that the Law requires, <hi>Jam.</hi> 2.10.</p>
+            <p>Q. <hi>Are all men under the Law?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No; Chriſt came to redeeme his people from it, <hi>Rom.</hi> 10.4. <hi>Rom.</hi> 6.14.</p>
+            <p>Q. <hi>How hath Chriſt redeemed his people from the Law?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By fulfilling it for them in his own perſon, <hi>Rom.</hi> 5.19, 20. <hi>Rom.</hi> 8.2, 3.</p>
+            <p>Q. <hi>Was not the Law a Covenant which God made with his people?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, it was, the Lord ſaid, <hi>Doe this and live;</hi> yet they could not keepe it by reaſon of the weakneſſe which was in them, <hi>Deut.</hi> 30.15, 16. <hi>Deut.</hi> 11.26, 27, 28.</p>
+            <pb facs="tcp:116615:8"/>
+            <p>Q. <hi>Why doth the Lord call on a people in his Word to beleeve, and repent, and turne to him, if they have no power to doe it?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe God gave them power; firſt in <hi>A<g ref="char:EOLhyphen"/>dam,</hi> and therefore may juſtly require it at their hands; ſecondly, it is the way God hath appointed to bring home his people to himſelfe; thirdly, that it may be a means to make us ſee our owne weakneſſe, and ſo to ſeek helpe in Chriſt where it is onely to be had.</p>
+            <p>Q. <hi>Hath not the Lord made a new Covenant with his people?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, far different from the old.</p>
+            <p>Q. <hi>In what doth it differ?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In the firſt Covenant God commands and gives no power to performe, yet it lies upon the creature to do it, or elſe to be accurſed; and this is the Covenant of workes, <hi>Gal.</hi> 3.10. 2 <hi>Cor.</hi> 3.7.</p>
+            <p>Q. <hi>What is the new Covenant?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a free Covenant, wherein Chriſt hath done all for his people, and doth inable us to doe what is pleaſing to him by the helpe of his Spirit, <hi>Ezek.</hi> 36.25, 26.28.</p>
+            <p>Q. <hi>What is Election?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is the great mercy of God before the world was made, to chooſe ſome to be ſa<g ref="char:EOLhyphen"/>ved by Jeſus Chriſt, <hi>Epheſ.</hi> 1.4.</p>
+            <pb facs="tcp:116615:9"/>
+            <p>Q. <hi>What is Reprobation?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> God in his juſt judgement to reject ſome, to the praiſe of his juſtice, 1 <hi>Theſ.</hi> 1.9. <hi>Rom.</hi> 9.22. <hi>Jude</hi> 4. 1 <hi>Pet.</hi> 2.</p>
+            <p>Q. <hi>What is Juſtification?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is to be diſcharged and acquitted from all ſinne and tranſgreſſion, and to ſtand per<g ref="char:EOLhyphen"/>fectly holy before God the Father, in and alone by Jeſus Chriſt, <hi>Gal.</hi> 2.16.</p>
+            <p>Q. <hi>How many ſorts are there of Juſtification?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Three; firſt, wee are juſtified before God onely by Jeſus Chriſt, for he freely juſtifies the godly; ſecondly, Faith juſtifies our con<g ref="char:EOLhyphen"/>ſcience, for wee cannot tell untill wee have faith which witneſſeth it unto us; thirdly, good workes juſtifie us before men, <hi>Rom.</hi> 8.33, 34. <hi>Rom.</hi> 5.1. <hi>James</hi> 2.17, 18. conſider <hi>Acts</hi> 18.28. 1 <hi>Joh.</hi> 2.22. 1 <hi>Cor.</hi> 12.3. 1 <hi>Joh.</hi> 4.15. <hi>&amp;</hi> 5.1.4, 5. <hi>Acts</hi> 8.37. <hi>Joh.</hi> 11.25, 26. <hi>Rom.</hi> 10.9.</p>
+            <p>Q. <hi>What is faith?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> This is a mightie worke of God upon his people, making the ſoule ſo to believe this, and to reſt upon Chriſt in his full, free, and eternall love of God to their ſoules, <hi>Joh.</hi> 6.29. though for the meaſure it is not in all the Lords alike.</p>
+            <p>Q. <hi>What is Converſion?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is to open the eyes, turning the ſoul from
+<pb facs="tcp:116615:9"/>darkneſſe to light, from Satan to God, &amp;c. <hi>Acts</hi> 26.18. this is an act of Gods Spirit up<g ref="char:EOLhyphen"/>on the ſpirit of his people, working a tho<g ref="char:EOLhyphen"/>row change in them, cauſing the ſoule to looke for and reſt upon Jeſus Chriſt onely for pardon and ſalvation.</p>
+            <p>Q. <hi>What facultie of the ſoule doth the Lord first worke upon?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Upon the underſtanding, in letting them ſee the loſt condition of thoſe that are out of Chriſt, and the happie condition of them that are in Chriſt. The ſecond facultie the Lord workes on, is the Will, changing it ut<g ref="char:EOLhyphen"/>terly from all deſire of evill to good, which cauſeth his judgement to be changed, and his affections to be changed, and ſo doth become a new creature, <hi>Luk.</hi> 24.45.</p>
+            <p>Q. <hi>What is the new birth which Chriſt told unto</hi> Nicodemus, <hi>ſaying,</hi> Except a man be borne againe, he cannot be ſaved.</p>
+            <p>
+               <hi>A.</hi> It is not a new birth of the body, but of the mind, making the mind new, <hi>Joh.</hi> 3.5.</p>
+            <p>Q. <hi>Can none be ſaved without this new birth?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No. <hi>Joh.</hi> 3.3.5, 6, 7.</p>
+            <p>Q. <hi>How come children to be ſaved?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> God is as able to worke it in children as in others; this new birth is the worke of God in the creature, and not any worke of the creature, nor is any ſaved for any worke of
+<pb facs="tcp:116615:10"/>their own. Gods love is free and doth ſav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whom he pleaſeth; we know not how God<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſaves children, with it or without it, and we muſt not preſume above what is written, and if any teach other doctrine, they darken the free grace of God to people; and ſuch as doe workes to be ſaved, are as bad as Pa<g ref="char:EOLhyphen"/>piſts, which teach that wee are ſaved, partly by workes, and partly by Chriſt, <hi>Hoſea</hi> 14<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 4. 1 <hi>Cor.</hi> 2.12.</p>
+            <p>Q. <hi>Why will the Lord have his people to have this new birth in them?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Firſt, Becauſe wee were choſen before the world was made in Chriſt, that wee ſhould be a people zealous of good workes, which none can be without the Lord worke this new birth in them; ſecondly, he will be ho<g ref="char:EOLhyphen"/>noured of his in this life; for Chriſt ſaith; <hi>He that honoureth me, him will my Father ho<g ref="char:EOLhyphen"/>nour:</hi> thirdly, he fits his people for heaven in this life, by working in them this new birth, this new birth deſires new food, and not old, but hungring and thirſting for ſpi<g ref="char:EOLhyphen"/>rituall food, which God will fully ſatisfie in heaven, <hi>Epheſ.</hi> 2.10.</p>
+            <p>Q. <hi>Why doth the Lord fit his people for heaven in this life?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe if he ſhould not give them to thirſt after heaven and holineſſe, heaven would
+<pb facs="tcp:116615:10"/>ſeeme to be a hell to them. Take one that hath not this new birth in him, and let him be with people that performe holy duties, it will be ſo tedious unto him, that he can<g ref="char:EOLhyphen"/>not indure it; then thinke what he would doe if he were in heaven, where there is no<g ref="char:EOLhyphen"/>thing but holineſſe and praiſing God day and night.</p>
+            <p>Q. <hi>What is Sanctification?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a worke of God in killing ſin in all his people in part, and giving them the graces of his holy Spirit in part, which makes them to live a holy life in part, 1 <hi>Cor.</hi> 13.9.</p>
+            <p>Q. <hi>Why is not Sanctification perfected in this life?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe it is the will of God to reſerve it for his people in heaven.</p>
+            <p>Q. <hi>What is true Repentance?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a change of the minde from evill to good, as <hi>Acts</hi> 26.18.20. And this is a migh<g ref="char:EOLhyphen"/>tie worke of God upon his people, when he opens their underſtandings, and ſo lets them ſee their ſins, which was a cauſe that Chriſt did ſuffer for them that bitter death upon the Croſſe, which cauſeth them to mourne as one that mourneth for his firſt-borne, <hi>Zach.</hi> 12.10.</p>
+            <p>Q. <hi>What are the fruits of Repentance?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> An utter hating and loathing of all ſinne,
+<pb facs="tcp:116615:11"/>which God makes knowne to them to be ſinne, which formerly they had loved and imbraced with delight, and loving and de<g ref="char:EOLhyphen"/>lighting in the holy wayes of God, and in the people of God, which they formerly ha<g ref="char:EOLhyphen"/>ted and perſecuted, <hi>Zach.</hi> 12.10. 2 <hi>Cor.</hi> 7.10, 11.</p>
+            <p>Q. <hi>What is the true love of God in us?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is when wee have brought our hearts to this frame, that wee can doe all that wee doe in the ſervice of God onely in love to his Majeſtie. There are three ſorts of ſervi<g ref="char:EOLhyphen"/>ces in the world, and but one right: the firſt is as a ſlave, that doth all he doth for feare of hell; the ſecond is as a ſervant that workes for wages, or elſe he would not worke; the third is as a ſonne, which workes not for feare of puniſhment, nor yet for wages, for he knows he is free from all puniſhment, and heaven is given him for an inheritance, as a father gives an inheritance to his ſon, not becauſe he hath ſerved him, but becauſe he is his ſonne, which cauſeth him to ſerve him with abundance of joy and delight.</p>
+            <p>Q. <hi>What cauſeth a ſoule to love God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Nothing more then the apprehenſion of Gods love to his ſoule, 1 <hi>Joh.</hi> 4.19.</p>
+            <p>Q. <hi>What is true Prayer?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a powring out of the ſoule unto God,
+<pb facs="tcp:116615:11"/>by the helpe of the Spirit of God, asking things wee want, and returning thankes for mercies received, 1 <hi>Sam.</hi> 1.15. and <hi>Rom.</hi> 8.26.</p>
+            <p>Q. <hi>What is true Patience?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a quiet bearing of the hand of God, &amp; ſubmitting to all his fatherly chaſtiſe<g ref="char:EOLhyphen"/>ments, <hi>Job</hi> 1.21, 22.</p>
+            <p>Q. <hi>What is the providence of God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is that by which God ruleth all things in the world, and nothing comes to paſſe by fortune or chance, but onely by his pro<g ref="char:EOLhyphen"/>vidence, according to his free will in guid<g ref="char:EOLhyphen"/>ing good, and his ſuffering will to ſuffer e<g ref="char:EOLhyphen"/>vill to bring his owne purpoſes to paſſe, <hi>Mat.</hi> 10.28. <hi>&amp;</hi> 26.30. <hi>Acts</hi> 2.23.</p>
+            <p>Q. <hi>What may this teach us?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To eye God in every condition, and not to looke upon ſecondary cauſes; for God hath a hand in every condition we are in.</p>
+            <p>Q. <hi>What is conſcience?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is part of the minde being tenewed, which cauſeth feare in Gods people to of<g ref="char:EOLhyphen"/>fend God in any of their wayes.</p>
+            <p>Q. <hi>What is Idolatry?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is to worſhip a falſe God, or the true God in a falſe way, which is not according to his Word, <hi>Deut.</hi> 12.32.</p>
+            <p>Q. <hi>What is it to have true zeale for God?</hi>
+            </p>
+            <pb facs="tcp:116615:12"/>
+            <p>
+               <hi>A.</hi> It is to have boldneſs and courage for God, and for his truths and wayes, and for no<g ref="char:EOLhyphen"/>thing but for his truths and wayes, for there is much falſe zeale in the world, they are zealouſly affected, but not well, <hi>Gal.</hi> 4.17, 18.</p>
+            <p>Q. <hi>What is the whole dutie of man?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To doe juſtice, to love mercy, and to walke humbly with his God, and to doe unto all men as they would they ſhould doe unto them, <hi>Mat.</hi> 6.8. <hi>Mat.</hi> 7.12.</p>
+            <p>Q <hi>What is the dutie of one Chriſtian to ano<g ref="char:EOLhyphen"/>ther?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To be ready to doe good one to another, as well in ſoule as in body, as one member in the body is alwayes ready to helpe the other in every condition, <hi>Epheſ.</hi> 4 4.</p>
+            <p>Q <hi>What is the dutie of Chriſtians to their ene<g ref="char:EOLhyphen"/>mies?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are not to hate them, but to over<g ref="char:EOLhyphen"/>come their evill with goodneſſe, and to pitie and pray for them, and ſo doing they ſhew themſelves to be the children of God, 1 <hi>Pet.</hi> 3.9. <hi>Mat.</hi> 5.44.</p>
+            <p>Q. <hi>What is the reſurrection?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is the raiſing of all mankinde at the day of Judgement, then ſhall Chriſt joyne the ſouls and bodies of his people together, and then ſhall they live for ever with him
+<pb facs="tcp:116615:12"/>in his kingdome, and the wicked with their ſouls and bodies ioyned together, ſhall be caſt into hell-fire, where there is weep<g ref="char:EOLhyphen"/>ing and wailing for ever, <hi>Mat.</hi> 25.34.41.</p>
+            <p>Q. <hi>What is the Goſpel?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is tidings of great joy to all people, that Chriſt is given to them of God his father, as a free gift. <hi>Rom.</hi> 14.5.</p>
+            <p>Q. <hi>Who may they thanke that have the gifts of the Spirit, and the graces thereof?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> God, who is the giver of every perfect gift, and no creature of it ſelfe can attaine to any good, no more then a dead man can doe the actions of a living man, which wee know none can doe, <hi>James</hi> 1.17. <hi>Eph.</hi> 2.1.</p>
+            <p>Q. <hi>What ſhould this teach us, if all good comes from God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Not to glory in any thing of our ſelves, as if it were our owne, but onely in God; ſecondly, not to hate them which have not the graces of God, but pitie them and pray for them, and uſe all meanes to doe them good.</p>
+            <p>Q. <hi>Why ſhould wee doe ſo?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe wee are all one by nature, all the difference is in God, which pardons the debt in his people which was loſt by <hi>A<g ref="char:EOLhyphen"/>dam,</hi> and hath given them a new ſtock in the new <hi>Adam,</hi> which is Jeſus Chriſt, but in
+<pb facs="tcp:116615:13"/>ſome he requires that which they had, and loſt in <hi>Adam.</hi>
+            </p>
+            <p>Againe, This ſhould teach all his people, to make good uſe of the ſpirit of God and the graces he hath given them at all times and in all conditions &amp; in all companies, and to magnifie the goodnes of their God, <hi>Epheſ.</hi> 4.</p>
+            <p>Q. <hi>What is Glorification?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is to receive full holineſſe and happi<g ref="char:EOLhyphen"/>neſſe and full contentment, with God the Father and God the Sonne, and all the holy Angels and Saints, and ſo remaine with them for ever in that glorious and happie condition, <hi>Joh.</hi> 17.24.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
